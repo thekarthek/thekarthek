@@ -223,3 +223,146 @@ I am always looking for interesting open-source projects or freelance QA consult
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F5A0&height=30&section=footer&text=End%20of%20Transmission&fontSize=15" />
 </p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🧠 Engineering Control Center
+
+> Designing systems where data, logic, and reliability intersect.
+
+I operate at the intersection of **Quantitative Finance, Machine Learning, Backend Systems, QA Architecture, and Low-Level Engineering**.
+
+My GitHub is not a collection of experiments — it’s a layered engineering lab.
+
+Each repository reflects a different layer of the software stack.
+
+---
+
+# 🛰️ System Architecture Map
+
+```
+Layer 5 → Quantitative & Financial Systems
+Layer 4 → Machine Learning & Optimization
+Layer 3 → Backend APIs & Business Logic
+Layer 2 → QA Automation & Validation Engines
+Layer 1 → Systems Programming & Kernel Interaction
+```
+
+---
+
+# 📊 Layer 5 — Quantitative & Financial Engineering
+
+🔹 **Quantitative_Developer**
+Statistical modeling, trading strategy research, and financial data experimentation.
+
+🔹 **LEAN (Algorithmic Trading Engine Fork)**
+Backtesting and execution modeling using professional-grade trading infrastructure.
+
+🔹 **Quant-Developer-Microsoft**
+Structured research environment for reproducible quant workflows.
+
+---
+
+# 🤖 Layer 4 — Machine Learning & Optimization Systems
+
+🔹 **Pump_Blade_Optimization_PINN_Framework**
+Physics-Informed Neural Network (PINN) architecture for aerodynamic optimization.
+
+🔹 **Self-Optimizing-Thermal-Digital-Twin-for-Compact-Processors**
+Hybrid ML + thermodynamic digital twin with adaptive telemetry correction.
+
+🔹 **V-Chamber-C-processor**
+Predictive modeling integrated with phase-change vapor chamber heat transfer systems.
+
+🔹 **BK_Agent**
+Experimental AI agent framework exploring automation intelligence patterns.
+
+---
+
+# ⚙️ Layer 3 — Backend & Application Systems
+
+🔹 **grocery-backend-api**
+Node.js REST architecture with CRUD operations and modular routing.
+
+🔹 **project-tracker**
+Task lifecycle management system with API-driven logic.
+
+🔹 **hotel-room-reservation-system**
+State-aware booking engine with rule enforcement.
+
+🔹 **UI-API**
+Integrated frontend-backend communication workflow.
+
+🔹 **grocery-backend**
+Service-layer implementation focusing on scalability.
+
+---
+
+# 🧪 Layer 2 — QA Engineering & Automation Frameworks
+
+🔹 **selenium-ecommerce-automation**
+Java + Selenium structured automation framework.
+
+🔹 **ecommerce-manual-testing-project**
+Full QA lifecycle documentation:
+• Test Plan
+• Test Cases
+• RTM
+• Bug Reports
+• Summary Reports
+
+🔹 **QA Repository**
+Automation experiments & framework prototypes.
+
+---
+
+# 🖥️ Layer 1 — Systems & Core Engineering
+
+🔹 **linux-char-device-driver**
+Kernel-space device driver with concurrency handling.
+
+🔹 **monaco-editor (Fork)**
+Browser-based editor experimentation and system behavior study.
+
+---
+
+# 🎨 Design & Research Work
+
+🔹 **shopease-uiux-case-study**
+UX case study for modern e-commerce platform.
+
+🔹 **Wearable-Gesture-to-Speech-Translator**
+Assistive hardware-software integration concept.
+
+---
+
+# 📈 Engineering Profile Snapshot
+
+| Domain               | Depth     |
+| -------------------- | --------- |
+| Quantitative Finance | Advanced  |
+| Machine Learning     | Advanced  |
+| Backend Engineering  | Strong    |
+| QA Architecture      | Strong    |
+| Systems Programming  | Practical |
+
+---
+
+# 🧭 Current Engineering Trajectory
+
+• Advanced Quant Developer Systems
+• ML-integrated backend infrastructure
+• Financial modeling & risk analytics
+• Performance-driven automation frameworks
+
+---
+
+# 🔥 Engineering Identity
+
+I build:
+
+* Systems that are measurable
+* Architectures that scale
+* Automation that reduces uncertainty
+* Models that turn data into decisions
+
+---
+
