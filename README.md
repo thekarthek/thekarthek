@@ -1,18 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=220&section=header&text=Welcome%20to%20my%20Code%20Space&fontAlignY=35&fontSize=50&desc=Turning%20Coffee%20into%20Commits&descAlignY=60&descSize=25&animation=fadeIn&fontColor=FFFFFF)
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,50:243B55,100:0F2027&text=Bangaru%20Karthik%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=QA%20Automation%20Engineer%20%7C%20Freelance%20QA%20Consultant&descAlignY=70)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5A0&size=26&center=true&vCenter=true&width=800&lines=Manual+%2B+Automation+Testing;Selenium+%7C+Java+%7C+TestNG;API+Automation+%7C+RestAssured;CI%2FCD+Integration+%7C+Jenkins+%7C+Docker;Performance+Testing+%7C+JMeter;Building+Scalable+QA+Frameworks">
-</p>
 
 ------------
 
-# 🧬 The QA DNA
-
-> "I don't just find bugs; I engineer solutions to prevent them."
-
-I am a **QA Automation Engineer** driven by the intersection of stable code and seamless user experience. With **2 years of professional experience**, I’ve moved past simple script execution into the realm of **Test Architecture**. My focus is on building "Confidence Engines"—automation suites that allow developers to deploy with zero hesitation.
-
----
 
 ### 🕹️ My Professional Philosophy
 
@@ -23,12 +12,6 @@ I am a **QA Automation Engineer** driven by the intersection of stable code and 
 ### 🌓 Beyond the Console
 When the IDE is closed, I am a **Music Enthusiast**, an **Avid Reader**, and a **Nature Explorer**. I believe that a balanced life leads to more creative debugging sessions.
 
-# 👨‍💻 About Me
-
-:heavy_check_mark: **QA Automation Engineer** with **2 years of experience** in the IT industry.  
-:heavy_check_mark: Specialist in **UI + API Automation** and **Manual Testing** methodologies.  
-:heavy_check_mark: Passionate about **DevOps** integration and building scalable test architectures.  
-:heavy_check_mark: Dedicated to reducing regression cycles and ensuring high-quality software delivery.
 
 -------------------------
 <table border="0">
@@ -148,8 +131,6 @@ When the IDE is closed, I am a **Music Enthusiast**, an **Avid Reader**, and a *
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_thekarthek/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
-<p align="center"><b>"Quality is not an act, it is a continuous engineering process."</b></p>
 ------------------------------------------------------------------------
 
 <a href="https://github.com/YOUR_USERNAME/devops-qa"><b>View Project →</b></a>
