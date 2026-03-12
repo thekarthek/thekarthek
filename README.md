@@ -1,13 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=220&section=header&text=Welcome%20to%20my%20Code%20Space&fontAlignY=35&fontSize=50&desc=Turning%20Coffee%20into%20Commits&descAlignY=60&descSize=25&animation=fadeIn&fontColor=FFFFFF)
+<p align="center">
+<img src="https://img.icons8.com/fluency/96/satellite.png"/>
+</p>
+<h1 align="center">🚀 Bangaru Karthikreddy  </h1>
+<p align="center">
+Exploring the universe through code 🚀
+</p>
 
-------------
+
+![Space](https://img.shields.io/badge/Space-Tech-blue)
+![Satellite](https://img.shields.io/badge/Satellite-Engineering-purple)
+
+<p align="center">
+🛰 Satellite | Research
+</p>
+
+━━━━━━━━━━ 🌌 ━━━━━━━━━━
 
 
 ### 🕹️ My Professional Philosophy
 
 | 🧪 Stability | ⚡ Velocity | 🛠️ Scalability |
 | :--- | :--- | :--- |
-| Writing tests that are deterministic and flake-free. | Integrating QA into the CI/CD heartbeat for instant feedback. | Designing frameworks that grow as the product evolves. |
+
 
 ### 🌓 Beyond the Console
 When the IDE is closed, I am a **Music Enthusiast**, an **Avid Reader**, and a **Nature Explorer**. I believe that a balanced life leads to more creative debugging sessions.
